@@ -47,7 +47,7 @@
             // pictureBox1
             // 
             pictureBox1.Image = Properties.Resources.github_logo;
-            pictureBox1.Location = new Point(108, 152);
+            pictureBox1.Location = new Point(12, 9);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(136, 133);
             pictureBox1.TabIndex = 1;
